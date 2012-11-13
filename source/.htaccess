@@ -1,0 +1,43 @@
+# BEGIN WordPress
+
+# WPhtc: Begin Custom htaccess
+# Bitbang
+Redirect 301 /bitbang http://bitbang.ca
+Redirect 301 /podcast http://bitbang.ca
+# Grosserias
+Redirect 301 /grosserias http://grosserias.mondofzero.com
+Redirect 301 /lojadegrosserias http://grosserias.mondofzero.com
+# Tumblr
+#Redirect 301 /blog http://fzero.ca
+Redirect 301 /blogrss http://fzero.ca/feed
+Redirect 301 /rss http://fzero.ca/feed
+# Social
+Redirect 301 /picasa http://picasaweb.google.com/fabio.fzero
+Redirect 301 /photos http://picasaweb.google.com/fabio.fzero
+Redirect 301 /fotos http://picasaweb.google.com/fabio.fzero
+Redirect 301 /facebook http://facebook.com/fabio.fzero
+Redirect 301 /twitter http://twitter.com/fzero
+Redirect 301 /googleplus http://google.com/profiles/fabio.fzero
+Redirect 301 /plus http://google.com/profiles/fabio.fzero
+Redirect 301 /gplus http://google.com/profiles/fabio.fzero
+Redirect 301 /g+ http://google.com/profiles/fabio.fzero
+# Feedburner
+<IfModule mod_rewrite.c>
+ RewriteEngine on
+ RewriteCond %{HTTP_USER_AGENT} !FeedBurner    [NC]
+ RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
+ RewriteRule ^feed/?([_0-9a-z-]+)?/?$ http://feeds.feedburner.com/fzero-ca [R=302,NC,L]
+</IfModule>
+# WPhtc: End Custom htaccess
+
+
+#<IfModule mod_rewrite.c>
+#RewriteEngine On
+#RewriteBase /
+#RewriteRule ^index\.php$ - [L]
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule . /index.php [L]
+#</IfModule>
+
+# END WordPress
