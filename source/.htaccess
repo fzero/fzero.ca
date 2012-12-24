@@ -27,7 +27,19 @@ Redirect 301 /g+ http://google.com/profiles/fabio.fzero
 # /20xx -> /blog/20xx
 RedirectMatch 301 ^/20([0-9]{2})/(.*)$ http://fzero.ca/blog/20$1/$2
 
-# /blog redirects
+# /blog & archives redirects
 RedirectMatch 302 ^/blog/20([0-9]{2})(/?)$ http://fzero.ca/blog/archives
 RedirectMatch 302 ^/blog/20([0-9]{2})/([0-9]{2})(/?)$ http://fzero.ca/blog/archives
 RedirectMatch 301 ^/blog(/?)$ http://fzero.ca
+RedirectMatch 301 ^/archive(s?)(/?)$ http://fzero.ca/blog/archives
+RedirectMatch 301 ^/blog/archive(/?)$ http://fzero.ca/blog/archives
+
+# Error documents
+ErrorDocument 401 /errors/401.html
+ErrorDocument 403 /errors/403.html
+ErrorDocument 404 /errors/404.html
+ErrorDocument 410 /errors/404.html
+ErrorDocument 500 /errors/500.html
+ErrorDocument 502 /errors/500.html
+ErrorDocument 503 /errors/500.html
+ErrorDocument 504 /errors/500.html
