@@ -1,0 +1,12 @@
+---
+layout: page
+title: "Ouch!"
+date: 2012-12-24 02:48
+comments: false
+sharing: false
+footer: false
+---
+
+Something broke over here. Sorry about that!
+
+You can try the [archive](/blog/archive) or head [home](/). 

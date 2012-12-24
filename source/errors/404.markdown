@@ -1,0 +1,13 @@
+---
+layout: page
+title: "OMG 404"
+date: 2012-12-24 02:48
+comments: false
+sharing: false
+footer: false
+---
+
+These are not the droids you're looking for. Or maybe they were, but
+they're not here. Seriously.
+
+You can try the [archive](/blog/archive) or head [home](/). 
