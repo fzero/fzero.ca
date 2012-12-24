@@ -18,10 +18,3 @@ Redirect 301 /googleplus http://google.com/profiles/fabio.fzero
 Redirect 301 /plus http://google.com/profiles/fabio.fzero
 Redirect 301 /gplus http://google.com/profiles/fabio.fzero
 Redirect 301 /g+ http://google.com/profiles/fabio.fzero
-# Feedburner
-<IfModule mod_rewrite.c>
- RewriteEngine on
- RewriteCond %{HTTP_USER_AGENT} !FeedBurner    [NC]
- RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
- RewriteRule ^feed/?([_0-9a-z-]+)?/?$ http://feeds.feedburner.com/fzero-ca [R=302,NC,L]
-</IfModule>
