@@ -1,13 +1,18 @@
+# Feedburner - reads from /atom.xml
+Redirect 302 /feed http://feeds.feedburner.com/fzero-ca
+
 # Bitbang
 Redirect 301 /bitbang http://bitbang.ca
 Redirect 301 /podcast http://bitbang.ca
+
 # Grosserias
 Redirect 301 /grosserias http://grosserias.mondofzero.com
 Redirect 301 /lojadegrosserias http://grosserias.mondofzero.com
+
 # Tumblr
-#Redirect 301 /blog http://fzero.ca
 Redirect 301 /blogrss http://fzero.ca/feed
 Redirect 301 /rss http://fzero.ca/feed
+
 # Social
 Redirect 301 /picasa http://picasaweb.google.com/fabio.fzero
 Redirect 301 /photos http://picasaweb.google.com/fabio.fzero
@@ -18,3 +23,11 @@ Redirect 301 /googleplus http://google.com/profiles/fabio.fzero
 Redirect 301 /plus http://google.com/profiles/fabio.fzero
 Redirect 301 /gplus http://google.com/profiles/fabio.fzero
 Redirect 301 /g+ http://google.com/profiles/fabio.fzero
+
+# Feedburner old rewrite
+#<IfModule mod_rewrite.c>
+ #RewriteEngine on
+ #RewriteCond %{HTTP_USER_AGENT} !FeedBurner    [NC]
+ #RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
+ #RewriteRule ^feed/?([_0-9a-z-]+)?/?$ http://feeds.feedburner.com/fzero-ca [R=302,NC,L]
+#</IfModule>
