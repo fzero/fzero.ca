@@ -1,6 +1,3 @@
-# BEGIN WordPress
-
-# WPhtc: Begin Custom htaccess
 # Bitbang
 Redirect 301 /bitbang http://bitbang.ca
 Redirect 301 /podcast http://bitbang.ca
@@ -28,16 +25,3 @@ Redirect 301 /g+ http://google.com/profiles/fabio.fzero
  RewriteCond %{HTTP_USER_AGENT} !FeedValidator [NC]
  RewriteRule ^feed/?([_0-9a-z-]+)?/?$ http://feeds.feedburner.com/fzero-ca [R=302,NC,L]
 </IfModule>
-# WPhtc: End Custom htaccess
-
-
-#<IfModule mod_rewrite.c>
-#RewriteEngine On
-#RewriteBase /
-#RewriteRule ^index\.php$ - [L]
-#RewriteCond %{REQUEST_FILENAME} !-f
-#RewriteCond %{REQUEST_FILENAME} !-d
-#RewriteRule . /index.php [L]
-#</IfModule>
-
-# END WordPress
