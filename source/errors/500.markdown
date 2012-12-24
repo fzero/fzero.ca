@@ -9,4 +9,4 @@ footer: false
 
 Something broke over here. Sorry about that!
 
-You can try the [archive](/blog/archive) or head [home](/). 
+You can try the [archives](/blog/archives) or head [home](/). 

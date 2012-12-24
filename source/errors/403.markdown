@@ -9,4 +9,4 @@ footer: false
 
 You're not supposed to be here.
 
-You can try the [archive](/blog/archive) or head [home](/). 
+You can try the [archives](/blog/archives) or head [home](/). 

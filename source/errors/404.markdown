@@ -10,4 +10,4 @@ footer: false
 These are not the droids you're looking for. Or maybe they were, but
 they're not here. Seriously.
 
-You can try the [archive](/blog/archive) or head [home](/). 
+You can try the [archives](/blog/archives) or head [home](/). 
