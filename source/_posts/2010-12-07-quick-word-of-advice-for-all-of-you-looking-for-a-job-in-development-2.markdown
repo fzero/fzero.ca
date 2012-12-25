@@ -12,6 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   _wp_old_slug: ''
+categories: development
 ---
 I’m interviewing some people to work as developers, since it’s part of my job as team leader. We had some good people and bad people, but yesterday we brought in a guy that I think it’s worthy of note.
 

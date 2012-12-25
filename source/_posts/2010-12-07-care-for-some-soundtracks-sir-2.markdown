@@ -12,6 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   _wp_old_slug: ''
+categories: music
 ---
 I uploaded some of my soundtrack work to <a href="http://fzero.bandcamp.com/">Bandcamp</a> for all y’all. Enjoy!
 

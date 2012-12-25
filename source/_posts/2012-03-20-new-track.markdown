@@ -14,6 +14,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music
 ---
 And it's a weird one. The main sound (right at the beginning) actually came from tweezers that I sampled and tuned. The whole thing is full of polyrhythms and it's actually a waltz. Yep.
 

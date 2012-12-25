@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: geek
 ---
 So yeah, we (me and <a href="http://renata.org">Renata</a>) finally got a <a href="http://www.samsung.com/ca/consumer/tv-video/tv/lcd/LN40D550K1FXZC/index.idx?pagetype=prd_detail&tab=feature">new TV</a> to replace the old tube clunker we got for free a few weeks after we arrived in Toronto. When I say TV I mean "big 40 inch monitor where I can plug videogames and assorted computers", obviously, since we don't have cable and couldn't care less about it.
 

@@ -12,6 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   _wp_old_slug: ''
+categories: music
 ---
 <a href="http://bitbang.fzero.ca"><img class="alignnone" src="http://bitbang.fzero.ca/bitbang.png" alt="" width="300" height="300" /></a>
 

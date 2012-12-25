@@ -10,6 +10,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music video
 ---
 The one where I say "basically" a lot and make a few announcements.
 

@@ -13,6 +13,7 @@ published: true
 meta:
   _edit_last: '1'
   _wp_old_slug: ''
+categories: random
 ---
 I really need to find a book written in proper English.
 

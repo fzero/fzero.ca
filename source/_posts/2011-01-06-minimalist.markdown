@@ -9,6 +9,7 @@ published: true
 meta:
   _thumbnail_id: '195'
   _edit_last: '1'
+categories: geek
 ---
 <img src="http://fzero.ca/wp-content/uploads/2011/01/snap20110106_162037.png" alt="HTC Desire running Oxygen ROM 1.0.4" title="HTC Desire running Oxygen ROM 1.0.4" width="480" height="800" class="alignnone size-full wp-image-195" />
 
