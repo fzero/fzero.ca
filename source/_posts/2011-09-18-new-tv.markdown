@@ -20,7 +20,7 @@ To be honest, a new TV has never been a big priority; it took more than a year f
 
 This means I shouldn't be as surprised as I was with what we've got. <a href="http://www.samsung.com/ca/consumer/tv-video/tv/lcd/LN40D550K1FXZC/index.idx?pagetype=prd_detail&tab=specification">The thing is basically a full-fledged computer</a>. Besides having all the inputs and outputs you can imagine, it comes with two USB ports - one of which with enough power to spin up a small portable hard drive - and... a network port. Yep, you plug it on your router. Once you do that, it reads movies, music and pictures from any machine that makes them available through <a href="http://en.wikipedia.org/wiki/Dlna">DLNA</a>. 
 
-[caption id="attachment_319" align="aligncenter" width="300" caption="All I wanted was a VGA input."]<a href="http://fzero.ca/wp-content/uploads/2011/09/C360_2011-09-18-10-59-54.jpg"><img src="http://fzero.ca/wp-content/uploads/2011/09/C360_2011-09-18-10-59-54-300x245.jpg" alt="All I wanted was a VGA input." title="All I wanted was a VGA input." width="300" height="245" class="size-medium wp-image-319" /></a>[/caption]
+<a href="http://fzero.ca/wp-content/uploads/2011/09/C360_2011-09-18-10-59-54.jpg"><img src="http://fzero.ca/wp-content/uploads/2011/09/C360_2011-09-18-10-59-54-300x245.jpg" alt="All I wanted was a VGA input." title="All I wanted was a VGA input." width="300" height="245" class="size-medium wp-image-319" /></a>
 
 After installing a DLNA server on a Linux box (we chose <a href="http://live.gnome.org/Rygel">Rygel</a> if you're interested - it's pretty easy to setup), the TV found all the media automatically and played everything without a hitch. Pretty impressive.
 
