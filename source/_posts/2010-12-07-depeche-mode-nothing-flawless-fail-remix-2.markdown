@@ -16,7 +16,7 @@ meta:
   _edit_last: '1'
   _wp_old_slug: ''
 ---
-<object height="81" width="100%"> <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F7030290&secret_url=false"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F7030290&secret_url=false" type="application/x-shockwave-flash" width="100%"></embed> </object>  <span><a href="http://soundcloud.com/fzero/depeche-mode-nothing-flawless-fail-remix">Depeche Mode - Nothing (Flawless Fail Remix)</a> by <a href="http://soundcloud.com/fzero">fzero</a></span> 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F7030290"></iframe>
 
 I was listening to old Depeche Mode songs today and realized that if <strong>Nothing</strong> was mixed to sound like one of those shoddy electro-house singles, it would show every wannabe blogger/”producer” how crappy they are.
 
