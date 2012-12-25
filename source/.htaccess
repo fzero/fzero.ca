@@ -154,7 +154,7 @@ RedirectMatch 301 ^/blog/2011/10/tgif/?$ http://fzero.posterous.com/tgif
 RedirectMatch 301 ^/blog/2011/10/o/?$ http://fzero.posterous.com/o
 RedirectMatch 301 ^/blog/2011/11/good-morning-5/?$ http://fzero.posterous.com/good-morning
 RedirectMatch 301 ^/blog/2011/11/relics/?$ http://fzero.posterous.com/relics
-RedirectMatch 301 ^/blog/2011/11/raiden-and-master-chief-jamming-on-a-store-window/?$ http://fzero.posterous.com/raiden-and-master-chief-jamming-on-a-store-window
+RedirectMatch 301 ^/blog/2011/11/raiden-and-master-chief-jamming-on-a-store-window/?$ http://fzero.posterous.com/raiden-and-master-chief-jamming-on-a-store-wi
 RedirectMatch 301 ^/blog/2011/12/ready-to-rock/?$ http://fzero.posterous.com/ready-to-rock
 RedirectMatch 301 ^/blog/2011/12/shadowcat/?$ http://fzero.posterous.com/shadowcat
 RedirectMatch 301 ^/blog/2011/12/now-its-winter/?$ http://fzero.posterous.com/now-its-winter
@@ -169,7 +169,7 @@ RedirectMatch 301 ^/blog/2012/01/please/?$ http://fzero.posterous.com/please
 RedirectMatch 301 ^/blog/2012/02/aaahh/?$ http://fzero.posterous.com/aaahh
 RedirectMatch 301 ^/blog/2012/02/lickable-colors-making-trippy-sounds/?$ http://fzero.posterous.com/lickable-colors-making-trippy-sounds
 RedirectMatch 301 ^/blog/2012/02/sunny-winter-day-2/?$ http://fzero.posterous.com/sunny-winter-day-2
-RedirectMatch 301 ^/blog/2012/02/surprisingly-my-cats-are-actually-using-the-new-cat-toy/?$ http://fzero.posterous.com/surprisingly-my-cats-are-actually-using-the-new-cat-toy
+RedirectMatch 301 ^/blog/2012/02/surprisingly-my-cats-are-actually-using-the-new-cat-toy/?$ http://fzero.posterous.com/surprisingly-my-cats-are-actually-using-the-n
 RedirectMatch 301 ^/blog/2012/02/what-my-production-notes-look-like/?$ http://fzero.posterous.com/what-my-production-notes-look-like
 RedirectMatch 301 ^/blog/2012/02/pre-game-air-canada-centre/?$ http://fzero.posterous.com/pre-game-air-canada-centre
 RedirectMatch 301 ^/blog/2012/02/winter-arrived-march/?$ http://fzero.posterous.com/winter-arrived-march
