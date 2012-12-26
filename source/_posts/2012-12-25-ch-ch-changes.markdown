@@ -47,5 +47,5 @@ sites. Not that I'm abandoning them, but instead of linking to other
 people's stuff, it's high time I go back to making stuff other people
 would want to link to.
 
-Oh, and before I forget: **happy multi-denomitational food and gifts
+Oh, and before I forget: **happy multi-denominational food and gifts
 holiday!**
