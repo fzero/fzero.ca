@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music
 ---
 Another one of my "new track every two weeks" thing, dedicated to all Whedonites and Browncoats out there.
 

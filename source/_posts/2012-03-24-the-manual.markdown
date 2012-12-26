@@ -13,6 +13,7 @@ published: true
 meta:
   _edit_last: '1'
   _thumbnail_id: '414'
+categories: music articles
 ---
 <img src="http://fzero.ca/wp-content/uploads/2012/03/the_manual.gif" alt="The Manual" title="The Manual" width="320" height="461" class="aligncenter size-full wp-image-414" />
 

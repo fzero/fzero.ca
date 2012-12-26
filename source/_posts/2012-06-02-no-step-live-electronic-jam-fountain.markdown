@@ -12,6 +12,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music
 ---
 This is happening! I finally put together a <a href="http://nostep.ca">No Step</a> live thing, and <a href="http://www.facebook.com/pages/Fountain/236050883104637">Fountain</a> is the perfect place to try this out. I have no idea how it will turn out in the end, but THAT'S THE FUN OF IT!
 

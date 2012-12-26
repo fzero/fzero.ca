@@ -12,6 +12,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music
 ---
 Another new track, keeping up with the goal of releasing a new track every 2 weeks.
 

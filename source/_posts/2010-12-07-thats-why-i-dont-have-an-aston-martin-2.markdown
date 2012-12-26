@@ -11,6 +11,7 @@ published: true
 meta:
   _edit_last: '1'
   _wp_old_slug: ''
+categories: random
 ---
 <strong>Renata</strong>: I'm trying to find out how to sync Iphone4 with an Aston Martin
 <strong>Fabio</strong>: WHAT?

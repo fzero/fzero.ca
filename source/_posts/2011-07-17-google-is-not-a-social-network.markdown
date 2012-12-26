@@ -12,6 +12,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: articles geek web
 ---
 There, I said it. Actually I wasn't even the first one to say it, but I strongly agree. While it has a rather strong social thing going on, Google+ is actually a really cool platform for personal sites and (micro)blogging, which happens to make it very easy to share stuff with your friends.
 

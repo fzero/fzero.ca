@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music
 ---
 I already <a href="http://youtu.be/5g4nxBHk6oY">talked about this elsewhere</a>, but in case you missed, I started a new music project (band?) called <a href="http://nostep.ca" title="No Step - Official website!">No Step</a>. I'm pretty committed to make more music this year, so the goal is to <strong>release a new track every two weeks</strong>. Not all of them are going to be No Step originals - I'm giving myself the option to make remixes and edits too (still counts, right?).
 

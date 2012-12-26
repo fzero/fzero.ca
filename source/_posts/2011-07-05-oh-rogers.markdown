@@ -13,6 +13,7 @@ published: true
 meta:
   _edit_last: '1'
   _thumbnail_id: '289'
+categories: geek
 ---
 I've just got a new modem from Rogers and updated my connection to the next tier (<em>Hi-Speed Extreme</em> - gotta love those names!). So far, so good... <strong>but!</strong>
 

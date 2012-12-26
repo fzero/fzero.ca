@@ -12,6 +12,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music
 ---
 <iframe width="560" height="315" src="http://www.youtube.com/embed/7rrHkL-gR6c" frameborder="0" allowfullscreen></iframe>
 

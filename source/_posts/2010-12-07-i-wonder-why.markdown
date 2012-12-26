@@ -12,6 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   _wp_old_slug: ''
+categories: random
 ---
 A <a href="http://twitter.com/rafarigues">friend of mine</a> just posted this picture of <a href="http://en.wikipedia.org/wiki/S%C3%A3o_Paulo">São Paulo</a> on Twitter saying it’s a “beautiful view from the top of the Tivoli Mofarrej Hotel”.
 

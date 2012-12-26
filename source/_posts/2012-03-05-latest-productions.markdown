@@ -13,6 +13,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music
 ---
 First things first: here's the latest <a href="http://nostep.ca">No Step</a> track, which is also my attempt at making something cute.
 

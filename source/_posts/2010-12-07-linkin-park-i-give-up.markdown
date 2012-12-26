@@ -12,6 +12,7 @@ published: true
 meta:
   _edit_last: '1'
   _wp_old_slug: ''
+categories: music
 ---
 I swear I tried, but I couldn’t come up with a decent idea for the Linkin Park remix contest. I really thought I had it going for a while, but then it fell apart on top of the suckage of the original material. All I have to show for it is the track alignment mix, since LP wasn’t even decent enough to provide a proper multitrack.
 

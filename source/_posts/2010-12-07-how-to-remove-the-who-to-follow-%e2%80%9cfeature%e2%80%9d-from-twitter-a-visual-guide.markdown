@@ -15,6 +15,7 @@ published: true
 meta:
   _wp_old_slug: ''
   _edit_last: '1'
+categories: web
 ---
 <a href="http://fzero.ca/wp-content/uploads/2010/12/twitterfix1.png"><img class="size-medium wp-image-138 alignnone" title="How to fix Twitter." src="http://fzero.ca/wp-content/uploads/2010/12/twitterfix1-295x300.png" alt="How to fix Twitter." width="295" height="300" /></a>
 

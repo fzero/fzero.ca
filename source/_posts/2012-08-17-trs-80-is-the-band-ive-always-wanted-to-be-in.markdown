@@ -11,6 +11,7 @@ type: post
 published: true
 meta:
   _edit_last: '1'
+categories: music video
 ---
 Enough said. This is where I ultimately wanted to go with <a href="http://geradorzero.com">Gerador Zero</a>. I hope I can find the right people to do something like this!
 

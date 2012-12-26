@@ -15,6 +15,7 @@ meta:
   _edit_last: '1'
   _thumbnail_id: '164'
   _wp_old_slug: ''
+categories: random geek
 ---
 As a fan of the first <a href="http://www.imdb.com/title/tt0084827/">Tron</a> movie, I obviously just had to watch <a href="http://www.imdb.com/title/tt1104001/">Tron Legacy</a>. I had very low expectations for everything except the visual effects and soundtrack.
 

@@ -12,6 +12,7 @@ status: publish
 type: post
 published: true
 meta: {}
+categories: music geek articles
 ---
 I used to get really pissed off when I heard people talking about how vinyl sounds better than digital recordings, independently of physical support (CDs, SACDs, audio files and so on). I won't get into this matter in depth here; suffice to say, there is a mountain of technical evidence proving otherwise. If you want the most accurate reproduction, digital is the way to go. This is such an irrefutable fact that even if you buy the latest album from your favorite band on vinyl to enjoy that good ol' analog sound, all the recording, mixing and mastering was certainly done using computers, plugins and ProTools.
 
