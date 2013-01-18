@@ -46,5 +46,5 @@ posts with "real" content on my main domain.
 ### This is a work in progress!
 
 I'm still using the default Octopress theme, but I plan to change that
-soon. I plan on documenting the theme creation process on the blog
+soon. I will document the theme creation process on the blog
 itself.
