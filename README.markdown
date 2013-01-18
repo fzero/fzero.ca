@@ -39,7 +39,7 @@ It also was a poor alternative to Instagram (which I left) or Flickr
 (which I came back to).
 
 So, in an effort to clean things up, I tweaked my `.htaccess` so all
-permalinks to photoposts redirect to the original on [my
+permalinks to photoposts redirect to the original version on [my
 Posterous](http://fzero.posterous.com), which allowed me to keep only
 posts with "real" content on my main domain.
 
