@@ -14,12 +14,12 @@ or more parallel branches to try new designs and features.
 
 But probably the most interesting "feature" is that this blog originally
 ran on [Wordpress](http://wordpress.org) on the same domain, so this
-hopefully will help other people thinking about migrating. The
+hopefully will help other people who are thinking about migrating. The
 presence of the original `wp-content/uploads` folder inside `/source`
 ensures all content uploaded on Wordpress will still be present for the
 migrated posts.
 
-The most important thing to understand is that *everything* that exists under `/source`
+The most important thing to understand is that *everything* under `/source`
 will be re-created (and converted from Markdown, if necessary) in the same place on `/public`, 
 and the *only* thing that's published to your server is `/public`. 
 This is true for things like `.htaccess` too, so that's where you'll put everything.
@@ -41,8 +41,8 @@ I used to publish quite a few photo posts using
 [Posterous](http://posterous.com), closely emulating
 [Tumblr](http://tumblr.com)'s behavior. Posterous connected to my
 Wordpress installation via XML-RPC and pushed the posts directly to my
-blog. The problem is that made me lazy about actually _writing_ posts.
-It also was a poor alternative to Instagram (which I left) or Flickr
+blog. This made me lazy about actually _writing_ posts. It also was a poor
+alternative to Instagram (which I left) or Flickr
 (which I came back to).
 
 So, in an effort to clean things up, I tweaked my `.htaccess` so all
