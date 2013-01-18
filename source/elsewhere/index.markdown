@@ -13,7 +13,7 @@ Oldschool internet users have stuff all around, and I'm no exception. Here's a c
 [No Step](http://nostep.ca 'My "band"') / [Gerador Zero](http://geradorzero.com 'My previous band') / [Mechupa](http://fzero.ca/mechupa 'A few mash-ups') / [Soundtracks](http://fzero.bandcamp.com 'Some soundtracks') / [BitBang!](http://bitbang.ca 'Music podcast and mixed sets') / [Soundcloud](http://soundcloud.com/fzero 'In-progress and assorted tracks')
 
 ## Programming
-[LinkedIn](http://linkedin.com/in/fzero 'Mandatory LinkedIn link') / [GitHub](http://github.com/fzero 'Mandatory GitHub link')
+[LinkedIn](http://linkedin.com/in/fzero 'Mandatory LinkedIn link') / [GitHub](http://github.com/fzero 'Mandatory GitHub link') / [Gists](https://gist.github.com/fzero 'Mandatory link to code snippets')
 
 ## Pictures
 [Flickr](http://www.flickr.com/photos/fzero/) / [Posterous](http://fzero.posterous.com) / [Google+](https://plus.google.com/photos/114983774897653382388/albums 'A.k.a. Picasa')
