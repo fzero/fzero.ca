@@ -26,6 +26,8 @@ using the [Wordpress.com method](https://github.com/fzero/jekyll/wiki/Blog-Migra
 This bug actually comes from [Jekyll](http://jekyllrb.com/), the gem upon
 which Octopress is based. My [Jekyll fork](https://github.com/fzero/jekyll) already has the fix applied; check the [wordpressdotcom.rb](https://github.com/fzero/jekyll/blob/master/lib/jekyll/migrators/wordpressdotcom.rb) migration script for more details.
 
+**UPDATE:** My patch has been added to the official Jekyll repo. :-)
+
 ### Where things used to be
 
 I used to publish quite a few photo posts using
