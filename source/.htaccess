@@ -15,8 +15,9 @@ Redirect 301 /rss http://fzero.ca/feed
 
 # Social
 Redirect 301 /picasa http://picasaweb.google.com/fabio.fzero
-Redirect 301 /photos http://picasaweb.google.com/fabio.fzero
-Redirect 301 /fotos http://picasaweb.google.com/fabio.fzero
+Redirect 301 /flickr http://www.flickr.com/photos/fzero/
+Redirect 301 /photos http://www.flickr.com/photos/fzero/
+Redirect 301 /fotos http://www.flickr.com/photos/fzero/
 Redirect 301 /facebook http://facebook.com/fabio.fzero
 Redirect 301 /twitter http://twitter.com/fzero
 Redirect 301 /googleplus http://google.com/profiles/fabio.fzero
