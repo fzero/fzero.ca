@@ -3,7 +3,7 @@ layout: post
 title: "Divorcing iTunes from your media keys"
 date: 2013-03-17 13:24
 comments: true
-published: false
+published: true
 categories: geek 
 ---
 
