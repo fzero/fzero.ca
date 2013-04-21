@@ -16,7 +16,7 @@ Oldschool internet users have stuff all around, and I'm no exception. Here's a c
 [LinkedIn](http://linkedin.com/in/fzero 'Mandatory LinkedIn link') / [GitHub](http://github.com/fzero 'Mandatory GitHub link') / [Gists](https://gist.github.com/fzero 'Mandatory link to code snippets')
 
 ## Pictures
-[Flickr](http://www.flickr.com/photos/fzero/) / [Posterous](http://fzero.posterous.com) / [Google+](https://plus.google.com/photos/114983774897653382388/albums 'A.k.a. Picasa')
+[Flickr](http://www.flickr.com/photos/fzero/) / [Ex-Posterous](http://fzero.ca/posterous) / [Google+](https://plus.google.com/photos/114983774897653382388/albums 'A.k.a. Picasa')
 
 ## Social
 [Twitter](http://twitter.com/fzero) / [Facebook](http://facebook.com/fabiofzero "Maybe I'll kill this soon...") / [Google+](http://google.com/profiles/fabio.fzero "A fine social network, actually")
