@@ -6,10 +6,10 @@ sharing: false
 footer: true
 ---
 
-Hi, I’m Fabio. On the internet, I’m also known as FZero. Nice to meet you too! I’m a Brazilian (from Rio) living in Toronto and loving it.
+Hi, I’m Fabio - also known as FZero on the interwebz.
 
-Now you’ll say "how could you leave such a beautiful tropical paradise" and so on, but believe me: while Brazil is nice to visit, you wouldn’t want to live there for long.
+I code [music](/music) and produce [code](/programming). I cook a bit too. Someone should write a study on musicians/programmers/food enthusiasts; there seems to be a bunch of us out there.
 
-What else? I make [music](/music). I’m also a [programmer](/programming). I cook a bit too. Finally, I have several other sites and profiles [elsewhere](/elsewhere).
+Of course I have several other sites and profiles [in several places](/elsewhere).
 
-You can also [follow me on Twitter](http://twitter.com/fzero), if you want.
+You can [follow me on Twitter](http://twitter.com/fzero), if you want.
