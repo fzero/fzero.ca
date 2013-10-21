@@ -46,7 +46,7 @@ fs.readFile('/tmp/data.txt', function (err, data) {
 
 Take out the mandatory callback on Javascript and it's pretty much the same code. The main difference is Go gives you the **option** of [running functions asynchronously](https://gobyexample.com/goroutines) instead of forcing callbacks due to bad language design.
 
-All things considered, it's a good time to be a developer. It's a pity the best technologies seldom become the most popular, while inexplicable fads take over the landscape from time to time. Such is life. But if people could realize that abandoning SQL completely wasn't such a good idea, who knows? Maybe the best tools for the job can become more popular used sooner rather than later.
+All things considered, it's a good time to be a developer. It's a pity the best technologies seldom become the most popular, while inexplicable fads take over the landscape from time to time. Such is life. But if people could realize that abandoning SQL completely wasn't such a good idea, who knows? Maybe the best tools for the job can become more popular sooner rather than later.
 
 
 ---
