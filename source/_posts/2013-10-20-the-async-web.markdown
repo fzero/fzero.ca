@@ -46,7 +46,7 @@ fs.readFile('/tmp/data.txt', function (err, data) {
 
 Take out the mandatory callback on Javascript and it's pretty much the same code. You have to pass errors around and handle them manually; Go doesn't have exceptions _by design_ and Javascript's asynchronous behavior _breaks them_. The main difference is Go gives you the _option_ of [running functions asynchronously](https://gobyexample.com/goroutines) instead of _forcing callbacks_ due to bad design.
 
-Another similarity: neither Javascript nor Go have a class-based object model. Javascript uses objects that work pretty much like associative arrays in PHP (or hashes in Ruby, or dictionaries in Python). They're not _really_ objects derived from classes - they just kinda sorta work like them.
+Another similarity: neither Javascript or Go have a class-based object model. Javascript uses objects that work pretty much like associative arrays in PHP (or hashes in Ruby, or dictionaries in Python). They're not _really_ objects derived from classes - they just kinda sorta work like them.
 
 ``` javascript
 // Defining a rectangle object
