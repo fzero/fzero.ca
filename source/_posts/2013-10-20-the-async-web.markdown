@@ -3,7 +3,7 @@ layout: post
 title: 'The async web, or "Javascript sucks, but someone did something cool on it"'
 date: 2013-10-20 13:23
 comments: true
-published: false
+published: true
 categories:
 - articles
 - geek
