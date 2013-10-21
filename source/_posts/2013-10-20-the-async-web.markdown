@@ -86,7 +86,7 @@ func (r *rectangle) area() int {
 
 // Adding a perimeter() to rectangle
 func (r *rectangle) perimeter() int {
-    return 2*r.width + 2*r.height
+    return 2 * r.width + 2 * r.height
 }
 
 func main() {
@@ -96,8 +96,8 @@ func main() {
     }
 
     // Here we call the 2 methods defined for our struct.
-    fmt.Println("area: ", r.area())
-    fmt.Println("perim:", r.perimeter())
+    fmt.Println("Area: ", r.area())
+    fmt.Println("Perimeter:", r.perimeter())
     // ...
 }
 ```
@@ -106,6 +106,6 @@ All things considered, it's a good time to be a developer. It's a pity the best 
 
 
 ---
-<a name="asyncfootnote"></a>* _Before anyone mentions it, [Elixir](http://elixir-lang.org/) is a very different case from Coffeescript. [Erlang](http://www.erlang.org/)'s syntax is pretty far from mainstream, but the language and its tools are absurdly reliable and fast. Javascript is orders of magnitude slower and nothing can touch Erlang's built-in concurrency and fault tolerance._
+<a name="asyncfootnote"></a>* _Before anyone mentions it, [Elixir](http://elixir-lang.org/) is to [Erlang](http://www.erlang.org/) as [Scala](http://www.scala-lang.org/) is to [Java](http://www.java.com/). Also, it goes whithout saying that Javascript is orders of magnitude slower and less fault-tolerant than Erlang._
 
 <a name="mrifootnote"></a>* _[jRuby](http://jruby.org/) is a completely different story, though - particularly the latest release. But then you need to run your code in the JVM. Take that as you will._
