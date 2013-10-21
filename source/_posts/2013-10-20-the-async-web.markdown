@@ -85,12 +85,15 @@ func (r *rectangle) area() int {
 }
 
 // Adding a perimeter() to rectangle
-func (r rectangle) perimeter() int {
+func (r *rectangle) perimeter() int {
     return 2*r.width + 2*r.height
 }
 
 func main() {
-    r := rectangle{width: 10, height: 5}
+    r := rectangle {
+      width: 5,
+      height: 10
+    }
 
     // Here we call the 2 methods defined for our struct.
     fmt.Println("area: ", r.area())
