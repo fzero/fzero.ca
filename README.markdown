@@ -24,17 +24,6 @@ will be re-created (and converted from Markdown, if necessary) in the same place
 and the *only* thing that's published to your server is `/public`.
 This is true for things like `.htaccess` too, so that's where you'll put everything.
 
-### Speaking of migration...
-
-I stumbled on a bug that halted the migration process halfway through,
-using the [Wordpress.com method](https://github.com/fzero/jekyll/wiki/Blog-Migrations).
-This bug actually comes from [Jekyll](http://jekyllrb.com/), the gem upon
-which Octopress is based. My [Jekyll fork](https://github.com/fzero/jekyll) already has the fix applied;
-check the [wordpressdotcom.rb](https://github.com/fzero/jekyll/blob/master/lib/jekyll/migrators/wordpressdotcom.rb)
-migration script for more details.
-
-**UPDATE:** My patch has been added to the official Jekyll repo. :-)
-
 ### This is a work in progress!
 
 I'm still using the default Octopress theme, but I plan to change that
