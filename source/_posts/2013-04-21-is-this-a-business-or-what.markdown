@@ -17,7 +17,7 @@ Anyway, the crux of it remains relevant. I won't get into the whole *"if you don
 
 So, I decided to move from Instagram back to [Flickr](http://flickr.com/photos/fzero) when the TOS "controversy" was at its height. I didn't have that many photos or thought they were good enough to be used in ads, but I was a bit pissed off when Instagram decided to [pull out Twitter integration](http://news.cnet.com/8301-1023_3-57558128-93/instagram-photos-disappear-from-twitter-feeds/) about one month before that.
 
-I had reached the 200-picture limit on my free account a long time ago, but there I had a service that did **way** more, where I could store full-resolution photos, create sets, use proper geolocation and, on top of everything else, had _proper_ social network integration. A Flickr Pro account costs 25 bucks a year, a very fair price for a full-featured ad-free cloud photo storage service.
+I had reached the 200-picture limit on my free account a long time ago, but there I had a service that did **way** more, where I could store full-resolution photos, create sets, use proper geolocation and, on top of everything else, had _proper_ social network integration. ~~A Flickr Pro account costs 25 bucks a year, a very fair price for a full-featured ad-free cloud photo storage service.~~ Flickr offers 1Tb of storage for free, and you can get rid of the ads and a few more niceties by getting a paid account. So yeah, sign me up.
 
 ### Please let me pay for stuff
 
