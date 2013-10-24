@@ -90,6 +90,7 @@ DEPENDENCIES
   guard-jekyll-plus (~> 1.4.6)
   jekyll (~> 1.2.0)
   jekyll-page-hooks
+  pygments.rb
   rack (~> 1.5.2)
   rake (~> 10.1)
   rb-fchange (~> 0.0.6)
