@@ -12,7 +12,7 @@ categories:
 
 _**NOTE:** This is **not** a full review; there are plenty of specialized people writing those already and I simply don't have the time (I also don't want to spend $400 just to write a proper blog post). These are **my personal impressions** after trying the demo for a few days. It's important to note I'm a long-time Ableton Live user, but I'm far from being a fanboy._
 
-<img src="post_images/bitwig.png" class="left"/>[Bitwig Studio](http://bitwig.com) is finally released! The Duke Nukem Forever of DAWs is here, and it's looking pretty good.
+<img src="/post_images/bitwig.png" class="left"/>[Bitwig Studio](http://bitwig.com) is finally released! The Duke Nukem Forever of DAWs is here, and it's looking pretty good.
 
 I've been playing with Bitwig for a few days now. My general impression (and a good TL;DR) is that it's nice and worth it if you **don't** use [Ableton Live](http://ableton.com) yet, but there are no real reasons to switch _for now_. It's very possible that Bitwig 2.0 could change that (actually I'm betting on it).
 
