@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Bitwig, finally"
+date: 2014-03-30 12:10
+comments: true
+published: true
+categories:
+  - geek
+  - audio
+  - music
+---
+
+_**NOTE:** This is **not** a full review; there are plenty of specialized people writing those already and I simply don't have the time (I also don't want to spend $400 just to write a proper blog post). These are **my personal impressions** after trying the demo for a few days. It's important to note I'm a long-time Ableton Live user, but I'm far from being a fanboy._
+
+<img src="post_images/bitwig.png" class="left"/>[Bitwig Studio](http://bitwig.com) is finally released! The Duke Nukem Forever of DAWs is here, and it's looking pretty good.
+
+I've been playing with Bitwig for a few days now. My general impression (and a good TL;DR) is that it's nice and worth it if you **don't** use [Ableton Live](http://ableton.com) yet, but there are no real reasons to switch _for now_. It's very possible that Bitwig 2.0 could change that (actually I'm betting on it).
+
+Here's a quick summary of my impressions so far.
+
+### User interface
+
+The UI has more than a passing resemblance to Live, but it's definitely not a ripoff. It's like they've combined the best ideas from Live and [Renoise](http://renoise.com) while making everything extremely smooth and responsive. On the other hand, sometimes there's too much going on; things can get confusing pretty quickly with tons of parameters with brightly colored icons on multiple panes.
+
+There are very interesting routing options, with LFO generators and envelope followers that one can route freely to different controls inside instruments and effects - a feature that *also* resembles Renoise quite a bit. It's a nice feature for sound design, and can also be used to get around some pesky limitations (more on that below).
+
+### Features
+
+Live's session view is there, looking pretty much the same - only it's called *mix view*. Audio clips behave similarly, with automatic stretching (which sounds pretty good, by the way), envelopes and so on. The big difference is there can be several audio events (let's call them subclips) inside a clip, so you can do beat-slicing in place. Aside from that, you'll feel at home if you've ever used Live. This is the only instance where Bitwig can feel like a Live clone; everything else looks like Renoise (I kid, I kid!).
+
+MIDI support is pretty basic - actually borderline crappy. There's no easy way to send program changes and other important configuration data to external MIDI instruments. Another sorely missing feature is MIDI routing between tracks, which is extremely useful for things like recording the output of an arpeggiator or MIDI filter running in another track.
+
+External plugin support is both better and worse: plugins can be executed in a separate process so they don't bring Bitwig down when they crash. On the other hand, there's no multiple output support, which means you're pretty much screwed if you use [Maschine](http://www.native-instruments.com/en/products/maschine/production-systems/maschine/) or [Kontakt](http://www.native-instruments.com/en/products/komplete/synths-samplers/kontakt-5/) and want to mix their outputs properly.
+
+A few other common features present in other DAWs are also missing, like track folders and proper channel groups. Also, a few devices that were "borrowed" from Live are simply not as good, particularly Sampler, EQ and Compressor.
+
+Bitwig also seems *less* geared to live performance than Ableton. You can't assign keyboard shortcuts to clips, scenes and knobs - only MIDI notes and controls. There's a limited MIDI keyboard emulation available when you press caps-lock, but it's not the same thing.
+
+On the other hand, their control scripts seem to be very good. [Novation Launchpad](http://global.novationmusic.com/midi-controllers-digital-dj/launchpad-mini) is brilliant with Bitwig - even better than [Launchpad95](http://motscousus.com/stuff/2011-07_Novation_Launchpad_Ableton_Live_Scripts/) on Live. Their controller API is open and scriptable with Javascript - a huge diference from Live's obscure and undocumented Python API. Definitely a step on the right direction.
+
+But the biggest feature is definitely Linux support. That's huge news for anybody wanting to leave Apple's monopoly while keeping the ability to run a decent operating system.
+
+### Future
+
+Bitwig is promising some very interesting features for upcoming versions, including a fully modular system (like Reaktor/PD/Max4Live), network collaboration and native OSC support. If all that happens, I'm definitely buying it (and I really hope they sweeten the deal with a crossgrade discount!).
+
+## Conclusion
+
+Going back to the TL;DR at the top of the article: if you've already purchased Live, Bitwig is probably not worth it in its current incarnation (unless you really need Linux support). Some features need polishing, others need to be added and a few bugs need to be solved. Either way, it's definitely pretty good for a first version. Bitwig 2.0 could be a real game-changer if they manage to add everything that's being promised.
