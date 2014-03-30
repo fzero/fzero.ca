@@ -28,7 +28,7 @@ There are very interesting routing options, with LFO generators and envelope fol
 
 Live's session view is there, looking pretty much the same - only it's called *mix view*. Audio clips behave similarly, with automatic stretching (which sounds pretty good, by the way), envelopes and so on. The big difference is there can be several audio events (let's call them subclips) inside a clip, so you can do beat-slicing in place. Aside from that, you'll feel at home if you've ever used Live. This is the only instance where Bitwig can feel like a Live clone; everything else looks like Renoise (I kid, I kid!).
 
-MIDI support is pretty basic - actually borderline crappy. There's no easy way to send program changes and other important configuration data to external MIDI instruments. Another sorely missing feature is MIDI routing between tracks, which is extremely useful for things like recording the output of an arpeggiator or MIDI filter running in another track.
+MIDI support is pretty basic - actually borderline crappy. There's no easy way to send program changes and other important configuration data to external MIDI instruments. Another sorely missing feature is MIDI routing between tracks, which is extremely useful for things like recording the output of an arpeggiator or MIDI filter running on another track.
 
 External plugin support is both better and worse: plugins can be executed in a separate process so they don't bring Bitwig down when they crash. On the other hand, there's no multiple output support, which means you're pretty much screwed if you use [Maschine](http://www.native-instruments.com/en/products/maschine/production-systems/maschine/) or [Kontakt](http://www.native-instruments.com/en/products/komplete/synths-samplers/kontakt-5/) and want to mix their outputs properly.
 
@@ -36,7 +36,7 @@ A few other common features present in other DAWs are also missing, like track f
 
 Bitwig also seems *less* geared to live performance than Ableton. You can't assign keyboard shortcuts to clips, scenes and knobs - only MIDI notes and controls. There's a limited MIDI keyboard emulation available when you press caps-lock, but it's not the same thing.
 
-On the other hand, their control scripts seem to be very good. [Novation Launchpad](http://global.novationmusic.com/midi-controllers-digital-dj/launchpad-mini) is brilliant with Bitwig - even better than [Launchpad95](http://motscousus.com/stuff/2011-07_Novation_Launchpad_Ableton_Live_Scripts/) on Live. Their controller API is open and scriptable with Javascript - a huge diference from Live's obscure and undocumented Python API. Definitely a step on the right direction.
+On the other hand, their control scripts seem to be very good. [Novation Launchpad](http://global.novationmusic.com/midi-controllers-digital-dj/launchpad-mini) is brilliant with Bitwig - even better than [Launchpad95](http://motscousus.com/stuff/2011-07_Novation_Launchpad_Ableton_Live_Scripts/) on Live. Their controller API is open and scriptable with Javascript - a huge diference from Live's obscure and undocumented Python API. Definitely a step in the right direction.
 
 But the biggest feature is definitely Linux support. That's huge news for anybody wanting to leave Apple's monopoly while keeping the ability to run a decent operating system.
 
