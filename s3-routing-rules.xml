@@ -1,0 +1,33 @@
+<RoutingRules>
+
+  <RoutingRule>
+    <Condition>
+      <KeyPrefixEquals>g+</KeyPrefixEquals>
+    </Condition>
+    <Redirect>
+      <HostName>plus.google.com</HostName>
+      <ReplaceKeyWith>+FabioNevesFZero</ReplaceKeyWith>
+    </Redirect>
+  </RoutingRule>
+
+  <RoutingRule>
+    <Condition>
+      <KeyPrefixEquals>feed</KeyPrefixEquals>
+    </Condition>
+    <Redirect>
+      <HostName>feeds.feedburner.com</HostName>
+      <ReplaceKeyWith>fzero-ca</ReplaceKeyWith>
+    </Redirect>
+  </RoutingRule>
+
+  <RoutingRule>
+    <Condition>
+      <KeyPrefixEquals>bitbang</KeyPrefixEquals>
+    </Condition>
+    <Redirect>
+      <HostName>bitbang.ca</HostName>
+      <ReplaceKeyWith/>
+    </Redirect>
+  </RoutingRule>
+
+</RoutingRules>
