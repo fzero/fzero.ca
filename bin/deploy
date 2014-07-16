@@ -1,0 +1,2 @@
+#!/bin/bash
+bundle exec rake generate && s3cmd sync public/ s3://blog.fzero.ca
