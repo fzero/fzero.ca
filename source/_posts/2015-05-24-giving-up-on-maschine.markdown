@@ -24,15 +24,17 @@ So it's obvious I got interested on Maschine when I first heard of it. An MPC-li
 
 For all practical purposes, Maschine acts as an "external" box MIDI-synced to your DAW. Only it isn't a *box*, but a whole new pattern-based sequencer running inside a plugin. This means you get double everything: arrangement (scenes containing patterns), mixer and a second set of effect buses.
 
-Sequencing grooves in Maschine is pretty much the whole point, so you press play on your sequencer and start making some patterns. So far so good! Now you have a few bars done and you want to arrange them. Suddenly you realize that any pattern currently selected on Maschine will start playing immediately whenever you press play on the DAW, regardless of where you are in the arrangement. Things simply don't match up with the timeline, ever. I've lost count of how many times I had the groove for the chorus playing on top of a breakdown and vice-versa. It's extremely confusing.
+Sequencing grooves in Maschine is pretty much the whole point, so you press play on your DAW and start making some patterns. So far so good! Now you have a few beats done and you want to arrange them. Suddenly you realize that any pattern currently selected on Maschine will start playing immediately whenever you press play on the DAW, *regardless of where you are in the arrangement*.
+
+Things simply don't match up with the timeline, ever. I've lost count of how many times I had the groove for the chorus playing on top of a breakdown and vice-versa.
 
 There are two ways to fix this, and both suck. One is creating scenes on Maschine, which means making a whole parallel arrangement. This arrangement **won't** sync up automatically with your DAW, so you need to assign MIDI notes or control changes to each one of the scenes and *then* fire those from the main arrangement. This is the *bad stuff* from the MPC times and precisely what everyone hoped to avoid when working with a computer.
 
-The second way is exporting audio for every pattern in every group using Maschine's drag and drop feature - which works, but it's a pain in the ass - or sending the plugin's outputs to multiple channels and recording them to regular audio channels. Your arrangement will be all audio from that point on, which means you'll have to re-record the whole thing if you wish to change a groove later. In other words: it sucks.
+The second way is exporting audio for every pattern in every group using Maschine's drag and drop feature - which works, but it's a pain in the ass - or sending the plugin's outputs to multiple channels and recording them to regular audio channels. Your arrangement will be all audio from that point on, which means you'll have to re-record the whole thing if you wish to change a groove later. Again, that's the sort of thing we wanted to avoid.
 
 ## Wait but why?
 
-Because Maschine sits exactly halfway between a an instrument and a DAW. While version 1.x was more of the former, 2.x leans strongly in the other direction without quite delivering it. And Native Instruments doesn't seem to know what to do about it. It's common to see speculations about an upcoming DAW from NI on several websites, and Maschine seems to be the natural place for that to happen.
+Because Maschine sits exactly halfway between an instrument and a DAW. While version 1.x was more of the former, 2.x leans strongly in the other direction without quite delivering it. And Native Instruments doesn't seem to know what to do about it. It's common to see speculations about an upcoming DAW from NI on several websites, and Maschine seems to be the natural place for that to happen.
 
 Is it all bad? No, not really. It **is** a brilliant instrument, and a better MPC than Akai could ever make. Sure, you need a computer to run it, but that's also true for the [MPC Renaissance](http://akaipro.com/product/mpcrenaissance) - which came *after* Maschine. So if that's what you want, look no further.
 
