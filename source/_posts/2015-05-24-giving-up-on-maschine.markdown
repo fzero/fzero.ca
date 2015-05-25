@@ -32,7 +32,7 @@ The second way is exporting audio for every pattern in every group using Maschin
 
 ## Wait but why?
 
-Is it all bad? No, not really. It just doesn't fit well on my setup. And if you use [Ableton Live](https://www.ableton.com/en/live/) as your main DAW (or [Bitwig](http://www.bitwig.com/), for that matter) it probably isn't for you either.
+Is it all bad? No, not really. Maschine just doesn't fit very well on my setup. And if you use [Ableton Live](https://www.ableton.com/en/live/) as your main DAW (or [Bitwig](http://www.bitwig.com/), for that matter) it probably isn't for you either.
 
 The truth is Live does *everything* Maschine does in a saner and more integrated way. The [drum rack](https://www.youtube.com/watch?v=2PGdfIK5K9Y) device alone does *way more* than Maschine's groups will ever do, with the added benefit of being able to drag bits and pieces from the session directly into each drum pad. Then you can use the session view to create clips and scenes without worrying about copying all tracks to a new pattern all the time (again, a consequence of Maschine trying too hard to feel *just like hardware*). Each clip can have a different time signature too, something that simply isn't possible on Maschine.
 
