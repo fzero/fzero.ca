@@ -5,6 +5,7 @@ date: 2014-04-03 14:00
 comments: true
 published: true
 categories:
+  - music
 ---
 
 The [fourth Hy Brazil Compilation](http://chicodub.bandcamp.com/album/hy-brazil-vol-4-fresh-electronic-music-from-brazil-2014) was released this week, including a new track by yours truly! What's that, you ask? Well...
