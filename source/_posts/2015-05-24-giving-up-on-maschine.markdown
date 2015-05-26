@@ -62,4 +62,6 @@ But let's say you're stuck with a boring old linear DAW like ProTools or Logic. 
 
 It turns out there's a way to bypass Maschine's internal sequencer entirely [using Live's drum racks](http://tekmonki.com/2014/01/22/sequencing-maschine-drum-tracks-with-ableton-push-controller-update/). It's a long-winded solution, but it makes using those sweet drum synthesizers less painful. Live's sequencer is a dream to work with, so cutting out the middleman brings great relief.
 
+_**UPDATE:** I made a Live 9 template based on TekMonki's blog post linked above. <a href="/post_files/maschine_control.als.zip" download="maschine_control.als.zip">Click here to download it.</a>_
+
 Even so, the bottom line is clear: if you're not stuck with a boring DAW and want to make more than beats, do your homework. You might already have what you need after all. It also pays to buy hardware that won't lock you to a single software. Ableton tried that with the first APC line and failed; now Push and the APC MKII are fully class compliant. Open and hackable hardware is always the way to go.
